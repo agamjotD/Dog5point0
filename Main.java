@@ -4,7 +4,7 @@ public class Main
     {
         Dog dog1 = new Dog("Fang ", 5, "Husky", 80.0);
         Dog dog2 = new Dog("Piper", 3, "Australian Shepherd", 45.0);
-        Dog dog3 = new Dog("Agam", 16, "German Shepherd", 55.0);
+        Dog dog3 = new Dog("Agam", 16, "German Shepherd Puppy", 35.0);
 
         System.out.println(" ");
         System.out.println("Number of dogs: " + dog1.getDogCount());
